@@ -217,7 +217,7 @@ section#about .company img:first-child + img{ /* img태그는 인라인태그 �
   transition: all 0.7s; /* 변이: 값의 차이만큼 애니메이션 처리 all은 모든속성들 0.7s(초) */
 }
 /* #service .wrap ul li:hover .overcontents{
-  /*   display: block; */
+  display: block;
   opacity: 1;
   top: 80px;
 } */
